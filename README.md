@@ -1,3 +1,7 @@
+## README
+Please unzip the file "exdata_data_household_power_consumption.zip".  This flie is located in the folder "data"
+
+
 ## Introduction
 
 This assignment uses data from
